@@ -1,9 +1,8 @@
 ## Olá, eu sou o Matheus Sobreira. Seja bem vindo.
 
-- 🔭 Hoje trabalho como auxiliar administrativo 
 - 🌱 Estudando Desenvolvimento Web
 - 👯 Contate-me no email: matheussobreira2702@gmail.com
-- 🤔 Tenho 20 anos
+- 🤔 Tenho 21 anos
 - 📫 Moro em Anápolis(GO)
 
 <div>
