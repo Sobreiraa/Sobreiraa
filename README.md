@@ -87,9 +87,9 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:matheussobreira2702@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/sobreirss/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheus-sobreira-163962205/)
+  [![Gmail](https://img.shields.io/badge/Gmail-22c55e?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:matheussobreira2702@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-22c55e?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/sobreirss/?next=%2F)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-22c55e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheus-sobreira-163962205/)
   
 </div>
 
