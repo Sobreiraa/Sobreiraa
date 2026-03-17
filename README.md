@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=22c55e&section=header"/>
+
 <p align="center">
   <img src="https://i.imgur.com/UiDcURE.png" alt="Nova imagem" width="400" margin="5px"/>
 </p>
@@ -11,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Data+Engineering+student;Interested+in+Data,+BI+and+Big+Data;Be+welcome!"
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=22c55e&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Data+Engineering+student;Interested+in+Data,+BI+and+Big+Data;Be+welcome!"
   alt="Typing SVG"/>
 </div>
 
@@ -100,6 +101,6 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=22c55e&section=footer"/>
 
 
