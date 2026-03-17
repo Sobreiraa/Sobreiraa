@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=22c55e&section=header"/>
 
 <p align="center">
-  <img src="https://i.imgur.com/UiDcURE.png" alt="Nova imagem" width="300" margin="5px"/>
+  <img src="https://i.imgur.com/UiDcURE.png" alt="Nova imagem" width="250" margin-bottom="5px"/>
 </p>
 
 <div align="center"> 
