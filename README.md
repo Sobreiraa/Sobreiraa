@@ -54,23 +54,28 @@
 <br>
       
 <div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sobreiraa&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=0d1117">
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobreiraa&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
-  <br>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sobreiraa&theme=zenburn"/>
+  <img height="165" align="center" alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=sobreiraa&hide_border=true&show_icons=true&rank_icon=github&title_color=22c55e&icon_color=22c55e&text_color=ffffff&bg_color=0d1117">
+
+  <img height="180" align="center" alt="Top Language" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobreiraa&layout=compact&hide_border=true&title_color=22c55e&text_color=ffffff&bg_color=0d1117">
+
+  <br><br><br>
+
+  <img align="center" alt="Profile Details" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sobreiraa&theme=github_dark"/>
 </div>
 
-<br>
-<br>
-<br>
+<br><br><br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sobreiraa/sobreiraa/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sobreiraa/sobreiraa/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sobreiraa/sobreiraa/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/sobreiraa/sobreiraa/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/sobreiraa/sobreiraa/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" 
+      src="https://raw.githubusercontent.com/sobreiraa/sobreiraa/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
