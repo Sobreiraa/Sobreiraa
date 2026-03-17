@@ -56,12 +56,9 @@
 <div align="center">
   <img height="165" align="center" alt="GitHub Stats" 
     src="https://github-readme-stats.vercel.app/api?username=sobreiraa&hide_border=true&show_icons=true&rank_icon=github&title_color=22c55e&icon_color=22c55e&text_color=ffffff&bg_color=0d1117">
-
   <img height="180" align="center" alt="Top Language" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobreiraa&layout=compact&hide_border=true&title_color=22c55e&text_color=ffffff&bg_color=0d1117">
-
   <br><br><br>
-
   <img align="center" alt="Profile Details" 
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sobreiraa&theme=github_dark"/>
 </div>
