@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=22c55e&section=header"/>
 
-
-  <img src="https://i.imgur.com/UiDcURE.png" alt="Nova imagem" width="250" margin-bottom="5px" align="center"/>
-
+<p align="center">
+  <img src="https://i.imgur.com/UiDcURE.png" alt="Nova imagem" width="250" margin-bottom="0px" />
+</p>
 
 <div align="center"> 
   <b>データエンジニア</b> 
