@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=22c55e&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Data+Engineering+student;Interested+in+Data,+BI+and+Big+Data;Be+welcome!"
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=22c55e&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+in+the+Data+field;Interested+in+Data,+BI+and+Big+Data;Be+welcome!">
   alt="Typing SVG"/>
 </div>
 
@@ -24,8 +24,7 @@
   
   + Living in Anápolis, Brazil
   - 25 years old
-  ! Data Engineer focused on building data pipelines and transforming data into valuable insights
-  # Interested in Data, Business Intelligence (BI) and Big Data
+  ! Interested in Data, Business Intelligence (BI) and Big Data
   ```
 
 <br>
@@ -35,18 +34,14 @@
 <div align="center" width="100%">
  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
   ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-  ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
